@@ -1,0 +1,22 @@
+[NOTEINFO]
+5
+[NoteLoad1]
+2
+658 6
+658 0
+[NoteLoad2]
+2
+763 62
+763 0
+[NoteLoad3]
+2
+867 62
+867 62
+[NoteLoad4]
+2
+971 62
+971 62
+[NoteLoad5]
+2
+0 -62
+0 100
